@@ -1,6 +1,6 @@
 ## Linear Diophantine Equation
 ----------------------------------
-Let's when when the equation ax + by = c has a solution:
+Let's see when the equation ax + by = c has a solution:
 
 Let's suppose gcd(a,b) = g
 
