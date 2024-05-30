@@ -1,4 +1,4 @@
 ### Mobuis Function
 ---------------------
-<img src="Mobuis_Function.png" alt="Screenshot" width="600"/>
+<img src="images/Mobuis_Function.png" alt="Screenshot" width="600"/>
 
