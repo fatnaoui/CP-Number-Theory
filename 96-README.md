@@ -18,4 +18,4 @@ We know that n-1 is even so n-1 = d*2^s with d is old
 - We check if a^(d) % [n] == 1
 
 - if not we check if one of these satisfy the condition
-  - a^(d*2^r) % [n] == 1     -->      r in {2,n-2"}
+  - a^(d*2^r) % [n] == 1     -->      r in {2,n-2}
