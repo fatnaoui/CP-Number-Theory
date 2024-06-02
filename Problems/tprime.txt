@@ -1,0 +1,21 @@
+Problem Name: T-Prime
+Problem Constraints: n <= 10^5
+xi <= 10^12
+Problem Description:
+We know that prime numbers are positive integers that have exactly two distinct positive divisors. Similarly, we'll call a positive integer t Т-prime, if t has exactly three distinct positive divisors.
+
+You are given an array of n positive integers. For each of them determine whether it is Т-prime or not.
+
+Input Format: First Line : n , Number of elements in an array
+Second Line : xi ( i from 1 to n)    
+Sample Input: 3
+4 5 6
+Output Format: YES if its T-Prime
+NO if its not a T-Prime
+Sample Output: YES
+NO
+NO
+
+Solution:
+If you think that a three divisor number is the square of a prime number,
+for example 49 has only 1,49 and 7 so each prime its square is the one of the solution
