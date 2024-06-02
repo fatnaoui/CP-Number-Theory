@@ -9,7 +9,7 @@ Sample Input: 3
 Output Format: Integral value representing the multiplicative inverse.
 Sample Output: 333333336
 
-Solution: using the usual method won't work because if n=20 we already reach out 10 ^18.
+Solution:
 
 We know that m = 1000000007 is a prime number so n^(m-1) = 1 mod(m)
 
