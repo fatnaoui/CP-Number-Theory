@@ -1,0 +1,18 @@
+Problem Name: Hamza and Primes II
+Problem Constraints: 1<=T<=10
+1<=m<=n<=1000000000, n-m<=100000
+Problem Description:
+After learning sieve of Eratosthenes, Hamza wants to play more with the primes. This time he is trying to print primes between two integers. Help him in this task.
+
+Input Format: First line contains a single integer 'T' denoting number of test cases. Then 'T' lines follow each containing two integers 'm'  and 'n'. 
+Sample Input: 2
+5 10
+11 20
+Output Format: Print the prime numbers from 'm' till 'n' (both inclusive), one number per line and each test case is separated by an empty line.
+Sample Output: 5
+7
+
+11
+13
+17
+19
