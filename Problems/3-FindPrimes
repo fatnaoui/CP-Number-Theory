@@ -1,0 +1,9 @@
+Problem Name: Deepak and Primes
+Problem Constraints: 1<=n<=10000000
+Problem Description:
+Deepak is learning Sieve of Eratosthenes, He is stuck somewhere. Help him printing prime numbers.
+
+Input Format: Single line containing integral value n.
+Sample Input: 1
+Output Format: Integral value denoting nth prime number.
+Sample Output: 2
