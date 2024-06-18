@@ -1,0 +1,22 @@
+Problem Name: Find It
+Problem Constraints: 1 <= N <= 10^5
+1 <= numbers <= 10^5
+1 <= Q <= 10^5
+1 <= K <= 10^5
+Problem Description:
+You are given ***N*** numbers.<br>
+Now you have ***Q*** queries.<br>
+For each query you will be given an integer ***K***. <br>
+You have to find out the number of multiples of K among the given N numbers.
+
+Input Format: The first line consists of number N.<br> 
+Next N line contains N numbers.
+Next line contains number of queries Q.
+Next Q lines contains Integer K for each query
+Sample Input: 4
+5
+8
+10
+8
+1
+2
